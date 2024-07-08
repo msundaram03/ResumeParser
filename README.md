@@ -8,11 +8,6 @@ The `resume_parser.py` script parses a resume PDF and organizes the extracted in
 
 ## Installation
 
-### Prerequisites
-
-- Python 3.x
-- `pdfplumber` library
-
 ### Installation Steps
 
 1. Clone the repository to your local machine:
