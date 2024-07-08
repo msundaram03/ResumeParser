@@ -1,0 +1,95 @@
+{
+  "name": "Meenakshi Sundaram N",
+  "education": [
+    {
+      "institution": "SRM Institute of Science & Technology, Kattankulathur",
+      "degree": "B.Tech. - Computer Science & Engineering",
+      "year": "2021 - 2025",
+      "cgpa": "8.85 / 10"
+    },
+    {
+      "institution": "Chettinad Vidyashram",
+      "degree": "12th",
+      "year": "2021",
+      "percentage": "87 / 100"
+    },
+    {
+      "institution": "Chettinad Vidyashram",
+      "degree": "10th",
+      "year": "2019",
+      "percentage": "80.60 / 100"
+    }
+  ],
+  "contact": {
+    "phone": ["+91-9884924932", "+91-9444992457"],
+    "email": ["mn1132@srmist.edu.in", "msundaram2003@gmail.com"],
+    "address": "Flat D, 2nd Floor, Madhav Flat, Cresent Road, Kotturgarden, Chennai, Tamil Nadu, India",
+    "linkedin": null,
+    "github": "https://github.com/msundaram03"
+  },
+  "skills": [
+    "Python", "Tableau", "HTML", "CSS", "Javascript", "SQL", "C++", "C",
+    "Microsoft Excel", "Microsoft Office", "Power BI", "Machine Learning",
+    "Data Science", "NumPy", "Pandas", "Keras", "Scikit-Learn", "Cloud"
+  ],
+  "certifications": [
+    "Nutanix Certified Professional - Multicloud Infrastructure 6",
+    "Alteryx Foundational Micro-Credential",
+    "Oracle Certified Foundations Associate",
+    "Microsoft Certified: Power BI Data Analyst Associate",
+    "AWS Academy Graduate - AWS Academy Machine Learning Foundations",
+    "Networking Basics",
+    "Introduction to Data Science",
+    "Product Management",
+    "Microsoft Certified: Azure AI Fundamentals"
+  ],
+  "summary": "Dynamic professional with a robust background in data analysis and IT infrastructure, bolstered by certifications in Microsoft Power BI, Alteryx, Nutanix Multicloud Infrastructure, Oracle Foundations Associate, and Azure AI Fundamentals. Demonstrated expertise in data cleaning, preprocessing, and visualization using Python and Tableau, with proficiency in applying advanced machine learning for predictive modeling. Hands-on experience in configuring and maintaining IT infrastructure, ensuring data security, and troubleshooting technical issues. Known for strong problem-solving skills, attention to detail, and a commitment to delivering high-quality results through automated testing and rigorous quality assurance practices.",
+  "projects": [
+    {
+      "name": "Stock Analysis",
+      "link": "https://github.com/msundaram03/Stock-Analysis",
+      "description": "Stock analysis involves evaluating the financial performance, market trends, and prospects of a company’s stock to make informed investment decisions. Analysts examine various factors including Fundamental analysis focuses on the company’s fundamentals such as average price and stock volume, while technical analysis examines price trends and patterns. Investors use stock analysis to identify undervalued stocks, anticipate market movements, and manage risks in their investment portfolios. In this project, I have cleaned, preprocessed using Python and visualized by Tableau.",
+      "tools": ["Pandas", "Numpy", "Matplotlib", "Seaborn", "CSV files", "Tableau"]
+    },
+    {
+      "name": "Loan Applicant Analysis",
+      "link": "https://github.com/msundaram03/Loan-Applicant-Analysis",
+      "description": "The loan applicant data provides a comprehensive overview of individuals seeking financial assistance. This data serves as a critical tool for financial institutions to assess the creditworthiness and risk associated with each applicant. By analyzing this information, lenders can make informed decisions regarding loan approvals, interest rates, and terms. For this project, I have analyzed the loan applicant data from Kaggle. In this project, I have cleaned, preprocessed, and visualized the data.",
+      "tools": ["Pandas", "Numpy", "Matplotlib", "Seaborn", "CSV files"]
+    },
+    {
+      "name": "Chennai Housing Prediction",
+      "link": "https://github.com/msundaram03/Chennai-Housing-Prediction",
+      "description": "Developed a robust regression model to accurately estimate housing costs in Chennai, India. Leveraged advanced data science techniques and machine learning algorithms to analyze diverse factors influencing housing prices, such as property size, amenities, neighborhood characteristics, and market trends. Utilized machine learning frameworks like TensorFlow, along with data processing tools like Pandas and NumPy, to process and analyze a dataset containing over 3000 property descriptions and characteristics. Incorporated geospatial analysis tools to enhance model accuracy with location-based information. The project aimed to provide reliable price predictions tailored to the specific dynamics of Chennai's real estate market, empowering stakeholders to make informed decisions.",
+      "key_contributions": [
+        "Implemented Linear Regression and Tree Regression models for accurate price prediction.",
+        "Conducted extensive feature engineering and data analysis to identify key factors affecting housing prices.",
+        "Created a heatmap to visualize and define the relationships between different property features.",
+        "Ensured model localization and contextualization by exploring and integrating a diverse dataset reflecting Chennai's real estate dynamics.",
+        "Delivered a solution that aids users in navigating Chennai's ever-evolving real estate landscape."
+      ],
+      "technologies_used": ["TensorFlow", "Pandas", "NumPy", "Geospatial Analysis Tools", "Machine Learning Algorithms"]
+    }
+  ],
+  "internships": [
+    {
+      "company": "WorkEZ",
+      "industry": "Real Estate",
+      "role": "IT Intern",
+      "duration": "07 Dec, 2023 - 08 Jan, 2024",
+      "responsibilities": [
+        "Configured and maintained devices like access points, IP cameras, router, and firewall.",
+        "Responded to client requests for service, troubleshoot problems and help develop solutions.",
+        "Assisted in maintaining inventory records and documentation for equipment.",
+        "Monitored backup systems and procedures to ensure data security."
+      ]
+    }
+  ],
+  "personal_details": {
+    "gender": "Male",
+    "marital_status": "Single",
+    "date_of_birth": "28 Jul, 2003",
+    "languages": ["English", "Tamil", "French"]
+  },
+  "extra_curricular_activities": ["Held the position of my school cricket team’s captain"]
+}
